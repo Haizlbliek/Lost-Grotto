@@ -1,0 +1,5 @@
+BkgDroneVolume: 0
+Effects: Fog-0.04347826-20-20, 
+PlacedObjects: LightSource><551.5123><391.5504><0.06521739~EffectColor1~-41~-11~50~86.60254~0~1~None~0~0, 
+AmbientSounds: OMNI><AM_IND-ElectricHum02.ogg><665.1147><276.4138><0.1413043><1.234783, OMNI><MSC-WetConduits.ogg><717.3945><220.5801><0.1847826><0.7847826, 
+FadePalette: 609, 0.9130435
