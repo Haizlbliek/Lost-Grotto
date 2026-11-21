@@ -1,0 +1,18 @@
+Template: NONE
+DangerType: Flood
+CeilingDrips: 0.6630435
+WaveSpeed: 0.5253446
+WaveLength: 0.9873277
+WaveAmplitude: 0.003610491
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Clouds: 0
+Grime: 0
+RandomItemDensity: 0.6304348
+RandomItemSpearChance: 0.297826
+Palette: 609
+EffectColorA: 3
+EffectColorB: 10
+Effects: Fog-0.5-20-20, TinyDragonFly-0.1413043-308-37, 
+PlacedObjects: ColouredLightSource><340.6286><507.3411><319~-52~1FFFA1~191^65~1~False~0.5~0~0.5~Always~0~100, ColouredLightSource><740.3015><232.0247><-507~-47~47ADFF~301^103~0.7065217~False~0.5~0~0.5~Always~0~100, 
+AmbientSounds: SPOT><am_ind-50hz.ogg><721.8727><279.0957><0.5><1><341.8727><507.0957><-35.35534><-35.35534><0><0.1, OMNI><am_wat-lakeside.ogg><721.4213><402.6469><0.5><1, OMNI><am_sub-cavetone.ogg><725.681><183.3123><0.3369565><1, SPOT><basic mech.ogg><770.4152><491.8189><0.2065217><1><350.4152><356.8189><-35.35534><-35.35534><0><0.1869567, SPOT><watergurgleloop1.wav><1002.376><521.407><0.5><1><760.3761><87.40699><-59.35535><-38.35534><0><0.1, 
