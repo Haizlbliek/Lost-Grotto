@@ -2,21 +2,22 @@ HU_A01 -> echo_ify & Dragonly44
 HU_A02 -> Acorn_Donut
 HU_A03 -> Dragonly44
 HU_A04 -> Dragonly44
-HU_D03 -> Dragonly44
-HU_D04 -> Dragonly44
-HU_E01 -> Dragonly44
-HU_S01 -> Dragonly44
 HU_B01 -> Haizlbliek
-HU_B02 -> Tryn
 HU_B03 -> Foto
 HU_B04 -> Acorn_Donut
 HU_C01 -> riley_
 HU_C02 -> Dragonly44
 HU_C03 -> Tarka & Haizlbliek
+HU_C04 -> Haizlbliek
 HU_D01 -> Anubisrah
 HU_D02 -> XenomorphicDNA
+HU_D03 -> Dragonly44
+HU_D04 -> Dragonly44
+HU_E01 -> Dragonly44
 HU_F01 -> Acorn_Donut
-HU_C04 -> Haizlbliek
+HU_F02 -> Tryn
+HU_S01 -> Dragonly44
+
 GATE_HU_LF -> Haizlbliek
 LF_HUTRANS0 -> Haizlbliek
 LF_HUTRANS1 -> Haizlbliek
