@@ -1,0 +1,8 @@
+WaveSpeed: 0.5270295
+WaveLength: 0.9864852
+WaveAmplitude: 7.232612E-16
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Clouds: 0.2286002
+Effects: Fog-0.423913-667-462, 
+PlacedObjects: LillyPuck><323.8625><247.4153><13~80~2~3, LillyPuck><478.9164><250.111><0~0~2~3, LillyPuck><575.0814><251.8173><0~0~2~3, LillyPuck><716.8021><249.0292><0~0~2~3, Vine><1790.936><624.9396><182~377, Vine><2004.839><1028.632><-432~-432, Vine><1456.157><994.3765><412~-377, 

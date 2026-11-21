@@ -1,0 +1,9 @@
+Clouds: 0.5329742
+Grime: 0.1956522
+Palette: 609
+EffectColorA: 3
+EffectColorB: 10
+Effects: Bloom-0.173913-20-20, Fog-0.4456522-831-541, 
+PlacedObjects: LightSource><194.2092><1188.696><0.08695652~Environment~-346~348~50~86.60254~0~1~None~0~0, LightSource><826.943><1131.302><0.06521739~EffectColor1~-124~100~50~86.60254~0~1~None~0~0, InsectGroup><1491.241><1212.7><-159~185~0~0~Moth~0.1521739, LightSource><1376.837><964.3844><0.1521739~EffectColor1~-23~148~50~86.60254~0~1~None~0~0, LightSource><1720.55><1168.989><0.173913~Environment~-414~327~50~86.60254~0~1~None~0~0, InsectGroup><1698.104><374.8635><-198~166~0~0~Beetle~0.1847826, LightSource><1748.695><459.9555><0.08695652~Environment~-354~203~50~86.60254~1~1~None~0~0, LightBeam><1410.698><220.223><-39~551~144~550~262~-2~-105~-188~0.4326086~0~0.5652174~1~None~0~0, LightSource><705.5507><505.5159><0.1086956~Environment~-440~112~50~86.60254~1~1~None~0~0, InsectGroup><817.7515><455.2><-52~173~0~0~GrassHopper~0.5, PlayerPushback><1770.418><1227.022><0~100, NoSpearStickZone><1787.52><1209.285><-27.85712~149.4294, CustomVine><992.644><981.3615><318~-30~-55~95~False~False~chain~1~1~1~1~1, CustomVine><1262.702><952.9226><-66~63~-87.99805~198.9484~True~False~chain~0.6086956~0.6086956~0.6086956~0.6086956, CustomVineConnector><1262.089><954.1797><21~15~True~0~100, 
+AmbientSounds: OMNI><AM_ENV-CityTone.ogg><721.0531><567.2151><0.1956522><1, OMNI><AM_ENV-LightWind.ogg><709.8328><520.1096><0.3586957><1, 
+FadePalette: 41, 0.1847826, 0.1847826, 0.173913, 0.1847826

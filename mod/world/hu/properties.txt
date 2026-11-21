@@ -1,0 +1,5 @@
+Room Setting Templates: Inside
+Subregion: Lost Grotto
+Room_Attr: HU_A04: BigNeedleWorm-Forbidden,BlueLizard-Forbidden,WhiteLizard-Forbidden,
+Room_Attr: HU_D03: BigSpider-Forbidden,BlackLizard-Forbidden,Spider-Forbidden,
+Room_Attr: HU_E01: BigSpider-Forbidden,BlackLizard-Forbidden,Spider-Forbidden,

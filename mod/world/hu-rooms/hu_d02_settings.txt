@@ -1,0 +1,2 @@
+Clouds: 0.7692659
+AmbientSounds: OMNI><AM_ENV-Outside.ogg><722.8997><474.1174><0.423913><1, OMNI><AM_ENV-CityTone.ogg><718.8154><562.6731><0.2934783><1, OMNI><SO_IND-Survey.ogg><708.6506><298.6184><0.1521739><1, 

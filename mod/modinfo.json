@@ -1,0 +1,26 @@
+{
+  "id": "floodforge_jam",
+  "name": "Lost Grotto",
+  "version": "1.0.1",
+  "target_game_version": "v1.11.8",
+  "authors": "FloodForge Community",
+  "description": "A region created for FloodForge's 1st anniversary.<LINE><LINE>Authors:<LINE>Haizlbliek, echo_ify, Dragonly44, Acorn_Donut, Tryn, Foto, riley_, Tarka, XenomorphicDNA<LINE><LINE>Hosted by Haizlbliek<LINE>Region Art by Dragonly44<LINE><LINE>Connected to Farm Arrays (LF_D02)",
+  "requirements": [
+    "moreslugcats",
+    "regionkit",
+    "floodwaters_utilities_mini",
+    "crs"
+  ],
+  "requirements_names": [
+    "More Slugcats Expansion",
+    "RegionKit",
+    "Floodwaters Utilities Mini",
+    "Custom Regions Support"
+  ],
+  "priorities": [],
+  "tags": [
+    "Regions",
+    "Downpour"
+  ],
+  "checksum_override_version": false
+}

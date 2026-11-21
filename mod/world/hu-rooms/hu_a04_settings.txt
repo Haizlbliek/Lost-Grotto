@@ -1,0 +1,9 @@
+Clouds: 0.3845544
+RandomItemDensity: 0
+RandomItemSpearChance: 0
+Palette: 609
+Effects: Fog-0-708.5714-492.8992, HeatWave-0.1071429-42.14285-79.42939, Bloom-0.4736025-20-20, 
+PlacedObjects: LightSource><493.1993><428.2346><1~EffectColor1~-83.42853~48.13257~-30~113.6026~0~0~None~0~0, LightSource><484.2857><425.049><0.1521739~EffectColor1~-140.2857~77.29684~240~46.60254~0~1~None~0~0, Rainbow><473.3476><131.2034><-67.14282~302.8818~-288.5714~-75.98848~0.743789,0,0,0,0.5465838,1, EnergySwirl><491.2146><428.1714><EffectColor1~74.28577~-2.547546~-374.2857~15.77832~0.08540378, CellDistortion><493.1391><429.1989><-50~99.26227~75~-57.99686~0.1226707~0.5~0.1770185~0, KarmaFlower><468.5344><268.553><0~0~5~7, 3dLightSource><472.6889><358.8158><1~Environment~-496~204~237~-177.3975~0~0~None~0~0~0~17, CustomVine><303.5662><517.3289><93~-52~-317~-15~False~False~chain~1~1~1~1~1, 
+AmbientSounds: SPOT><MSC-ElectricPulse.ogg><731.8418><321.5379><0.5><1><491.8418><424.5465><-192.6411><-236.5427><0><0.1, OMNI><AM_ENV-LightWind.ogg><724.9608><517.1368><0.5><1, SPOT><AM_ENV-Pasture.ogg><729.6604><464.308><0.5><1><8.231812><317.2187><207.5018><-36.09308><0><0.1, SPOT><SO_SFX-Heartbeat1.ogg><744.5062><255.1352><0.5><1><490.9348><432.6569><-69.78387><-97.50519><0><0.1, 
+Triggers: Spot<tA>event<tB>MusicEvent<eA>songName<eB>lost_in_the_grotto<eA>vol<eB>0.3978262<eA>prio<eB>0.5<eA>mxThrt<eB>1<eA>loop<eB>0<eA>droneTol<eB>0<eA>rooms<eB>-1<eA>rest<eB>5<eA>fadeIn<eB>0<eA>oneSongPerCycle<eB>0<eA>stopAtDeath<eB>0<eA>stopAtGate<eB>0<tA>multiUse<tB>0<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>274.8225<tB>406.0636<tA>fireChance<tB>1<tA>entrance<tB>-1<tA>karma<tB>0<tA>slugcats<tB><tA>pos<tB>481.8225<tB>330.0636<tA>handlePos<tB>-537.3553<tB>71.64465, 
+FadePalette: 10, 0.2546584

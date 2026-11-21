@@ -1,0 +1,7 @@
+DangerType: FloodAndRain
+Clouds: 0.2924359
+WaterReflectionAlpha: 0.5
+Effects: SilenceWater-0.5434783-922-426, Moth-0.4565217-20-20, Ant-0.6086956-34-112, Fog-0.5326087-0-0, 
+PlacedObjects: LightSource><372.5952><346.8734><0.6956522~Environment~-118~115~-390~18.60254~1~0~None~0~0, FluxWaterfall><260><500><1~0.2717391~S~0~0, FluxWaterfall><400><400><3~0.1304348~S~0~0, LillyPuck><355.9296><224.912><0~0~2~3, LightSource><703.8959><451.8292><0.1521739~EffectColor1~-75~29~-166~68.60251~0~1~None~0~0, LightSource><614.7695><326.949><0.8478261~EffectColor1~-70~56~50~86.60254~0~0~None~0~0, LightSource><740><334><0.3804348~EffectColor1~-6~71~122~194.6025~0~0~None~0~0, LightSource><424><164><0.6956522~Environment~-244~169~-438~125.6025~1~0~None~0~0, LightSource><760><231><0.6956522~Environment~-118~115~-390~18.60254~1~0~None~0~0, 
+AmbientSounds: OMNI><AM_ENV-Forest.ogg><735.4122><537.8203><0.3586957><1, OMNI><RWTW_AmbDrips_02.ogg><744.3703><389.9098><0.2391304><1, OMNI><AM_SUB-CaveTone.ogg><764.0306><250.9476><0.3804348><0.1586957, 
+FadePalette: 609, 0.5

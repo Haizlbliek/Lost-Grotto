@@ -1,0 +1,12 @@
+HU 0 : -10
+HU 1 : 6
+HU 2 : 4
+HU 3 : 2
+HU 4 : 1
+
+blurMin : 0
+blurMax : 0.4
+idleDepths : 2
+idleDepths : 1
+idleDepths : 6
+idleDepths : 6
