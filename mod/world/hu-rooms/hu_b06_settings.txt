@@ -1,0 +1,9 @@
+DangerType: Flood
+RainIntensity: 0.8913044
+Clouds: 0.326087
+Palette: 609
+EffectColorA: 21
+Effects: WaterLights-0.8152174-20-20, WaterGlowworm-0.7934783-178-132, SilenceWater-0.4673913-685-396, 
+PlacedObjects: LightSource><139.6446><430.1118><0.5434783~EffectColor2~-109~281~50~86.60254~0~0~None~0~0, LightSource><1589><112><0.1956522~EffectColor2~-91~93~50~86.60254~0~0~None~0~0, LightSource><1703><428><0.4456522~Environment~-102~98~50~86.60254~0~0~None~0~0, CustomDecal><1579.068><292.562><-8~220~245~204~249~2~-402~30~0.5543478~1~0~blackrust1~0.7282609~1~0.7282609~1~0.7282609~1~0.7282609~1, 
+AmbientSounds: OMNI><RWTW_AmbDrips_03.ogg><672.9235><467.0995><0.2934783><1, OMNI><AM_ENV-Forest.ogg><701.5511><566.5208><0.326087><1, OMNI><RWTW_AmbDrips_04.ogg><744.3025><509.4685><0.1413043><1, OMNI><AM_ENV-SubTerr.ogg><742.0656><567.9227><0.1304348><0.6086956, OMNI><MSC-StructureStrain.ogg><540.187><295.9291><0.07608695><1.48913, 
+FadePalette: 10, 0.2065217, 0.2282609
