@@ -1,0 +1,14 @@
+Template: NONE
+CeilingDrips: 0.6086956
+WaveAmplitude: 0
+SecondWaveAmplitude: 0.04347826
+Clouds: 0.8152174
+Grime: 0.2173913
+RandomItemDensity: 0.6086956
+RandomItemSpearChance: 0.3304347
+Palette: 609
+EffectColorA: 4
+EffectColorB: 10
+Effects: Darkness-0-20-20, Fog-0.7717391-298-35, 
+PlacedObjects: ColouredLightSource><557.4003><1903.077><100~50~1AFFB8~254^-7~0.5434783~False~0.5~0~0.5~Always~0~100, ColouredLightSource><158><1905><100~50~1AFFB8~254^-7~0.5434783~False~0.5~0~0.5~Always~0~100, ColouredLightSource><864><1902><100~50~1AFFB8~254^-7~0.5434783~False~0.5~0~0.5~Always~0~100, ColouredLightSource><610.938><1170.81><-108~81~00FFBA~83^-43~0.6304348~False~0.5~0~0.5~Always~0~100, ColouredLightSource><257.9999><1171><-371~75~00FFBA~83^-43~0.5760869~False~0.5~0~0.5~Always~0~100, ColouredLightSource><376.9999><1170><-189~83~00FFBA~83^-43~0.5978261~False~0.5~0~0.5~Always~0~100, ColouredLightSource><732.9999><1174><75~84~00FFBA~83^-43~0.6195652~False~0.5~0~0.5~Always~0~100, SeedCob><421.1536><2157.622><82~22~7~10, DeadSeedCob><350.5598><2157.938><, LightSource><396.4479><322.2208><0.5978261~Environment~519~436~50~86.60254~1~0~None~0~0, LightSource><626><351><0.6630435~Environment~432~353~174~92.60254~1~0~None~0~0, SteamPipe><128.5504><386.2366><0~100, SteamPipe><798.7938><468.3049><0~100, BubbleGrass><857.1924><1029.555><0~0~4~9, 
+AmbientSounds: OMNI><am_sub-mysticcave2.ogg><690.5613><274.5596><0.2717391><1, SPOT><noise wind.wav><721.5704><142.4119><0.3043478><1><654.5704><2194.412><-35.35534><-35.35534><0><0.328261, SPOT><am_ind-50hz.ogg><282.9338><430.4211><0.5><1><734.9338><1171.421><-12.35535><-16.35535><0><0.05652187, SPOT><am_ind-50hz.ogg><276.6484><310.616><0.5><1><606.6484><1171.616><-15.35535><-11.35535><0><0.05652187, SPOT><am_ind-50hz.ogg><769.8009><562.0192><0.5><1><250.8009><1170.019><1.644653><-14.35535><0><0.05652187, SPOT><am_ind-50hz.ogg><548.8423><546.123><0.5><1><368.8423><1177.123><-1.355347><-17.35535><0><0.05652187, DIR><so_wat-runningwater.ogg><518.6777><159.5917><0.2934783><1><-180><0, 
